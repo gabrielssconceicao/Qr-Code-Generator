@@ -1,0 +1,21 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "QR code generator utility for e-commerces",
+  "author": "Gabriel Conceição",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielssconceicao/Qr-Code-Generator.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/gabrielssconceicao/Qr-Code-Generator/issues"
+  },
+  "homepage": "https://github.com/gabrielssconceicao/Qr-Code-Generator#readme"
+}
