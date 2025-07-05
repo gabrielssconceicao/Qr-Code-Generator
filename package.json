@@ -5,7 +5,7 @@
   "author": "Gabriel Conceição",
   "main": "index.js",
   "scripts": {
-    "start": "node --watch src/index.js"
+    "start": "node --env-file=.env --watch src/index.js"
   },
   "repository": {
     "type": "git",

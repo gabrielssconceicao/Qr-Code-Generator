@@ -1,6 +1,6 @@
 import chalk from 'chalk'
 
-export const mainPrompy = [
+export const mainPrompt = [
    {
     name: "select",
     description: chalk.yellow.bold(
